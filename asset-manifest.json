@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MBTI_test/static/css/main.ca519636.css",
+    "main.js": "/MBTI_test/static/js/main.ea956aef.js",
+    "static/js/787.18c45ccb.chunk.js": "/MBTI_test/static/js/787.18c45ccb.chunk.js",
+    "static/media/logo.svg": "/MBTI_test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MBTI_test/index.html",
+    "main.ca519636.css.map": "/MBTI_test/static/css/main.ca519636.css.map",
+    "main.ea956aef.js.map": "/MBTI_test/static/js/main.ea956aef.js.map",
+    "787.18c45ccb.chunk.js.map": "/MBTI_test/static/js/787.18c45ccb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca519636.css",
+    "static/js/main.ea956aef.js"
+  ]
+}
